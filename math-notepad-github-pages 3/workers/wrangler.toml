@@ -1,0 +1,8 @@
+name = "math-notepad-wolfram-proxy"
+main = "wolfram-proxy.js"
+compatibility_date = "2026-09-25"
+
+[vars]
+# Set this to the origin of the GitHub Pages site, without its path.
+# Example format: https://OWNER.github.io
+ALLOWED_ORIGIN = "https://OWNER.github.io"
